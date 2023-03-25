@@ -1,15 +1,11 @@
 {
-  "flowers": [
+  "posts": [
     {
-      "name": "begonia ",
-      "url": "http://www.visualdictionaryonline.com/images/plants-gardening/plants/flower/examples-flowers_1.jpg",
-      "description": "Decorative flower that is native to South America and prized for its vibrant colors."
-    },
-     {
-      "name": "violet  ",
-      "url": "http://www.visualdictionaryonline.com/images/plants-gardening/plants/flower/examples-flowers_1.jpg",
-      "description": "Small flower with several ornamental varieties; it is also cultivated for perfume production and cooking."
-    },
-    
-  ]
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
